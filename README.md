@@ -1,7 +1,7 @@
 # <span style="color:blue">ChatGPT_Algorithms</span>
 
 [![MIT License](https://img.shields.io/github/license/yourusername/ChatGPT_Algorithms?color=orange)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.9-blue)](https://www.python.org/downloads/release/python-390/)
+[![Python Version](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/downloads/release/python-311/)
 [![OpenAI ChatGPT](https://img.shields.io/badge/OpenAI-ChatGPT-brightgreen)](https://beta.openai.com/docs/guides/gpt)
 
 Welcome to the <span style="color:blue">ChatGPT_Algorithms</span> repository! This repository contains a collection of
@@ -12,7 +12,7 @@ Python algorithms created using ChatGPT.
 ChatGPT is a large language model developed by OpenAI that is trained to generate human-like text based on the input it
 receives. This makes it a powerful tool for generating natural language algorithms.
 
-![ChatGPT Logo](images/chatgpt.png)
+![ChatGPT Logo](https://raw.githubusercontent.com/yourusername/ChatGPT_Algorithms/main/images/chatgpt.png)
 
 ## Contents
 
@@ -22,7 +22,7 @@ This repository currently contains the following Python algorithms:
 - [<span style="color:green">Algorithm 2</span>](algorithm2.py): A description of what this algorithm does.
 - [<span style="color:green">Algorithm 3</span>](algorithm3.py): A description of what this algorithm does.
 
-![Python Logo](images/python.png)
+![Python Logo](https://raw.githubusercontent.com/yourusername/ChatGPT_Algorithms/main/images/python.png)
 
 ## Contributing
 
