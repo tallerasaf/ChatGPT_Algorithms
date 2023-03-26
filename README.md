@@ -1,14 +1,14 @@
 # <span style="color:blue">ChatGPT_Algorithms</span>
 
-[![MIT License](https://img.shields.io/github/license/yourusername/ChatGPT_Algorithms?color=orange)](https://opensource.org/licenses/MIT)
+[![MIT License](https://img.shields.io/github/license/tallerasaf/ChatGPT_Algorithms?color=orange)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/downloads/release/python-311/)
 [![OpenAI ChatGPT](https://img.shields.io/badge/OpenAI-ChatGPT-brightgreen)](https://beta.openai.com/docs/guides/gpt)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/ChatGPT_Algorithms)](https://github.com/yourusername/ChatGPT_Algorithms/issues)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ChatGPT_Algorithms)](https://github.com/yourusername/ChatGPT_Algorithms/network)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ChatGPT_Algorithms)](https://github.com/yourusername/ChatGPT_Algorithms/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ChatGPT_Algorithms)](https://github.com/yourusername/ChatGPT_Algorithms/commits/main)
-[![GitHub contributors](https://img.shields.io/github/contributors/yourusername/ChatGPT_Algorithms)](https://github.com/yourusername/ChatGPT_Algorithms/graphs/contributors)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ChatGPT_Algorithms)](https://github.com/yourusername/ChatGPT_Algorithms/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/tallerasaf/ChatGPT_Algorithms)](https://github.com/tallerasaf/ChatGPT_Algorithms/issues)
+[![GitHub forks](https://img.shields.io/github/forks/tallerasaf/ChatGPT_Algorithms)](https://github.com/tallerasaf/ChatGPT_Algorithms/network)
+[![GitHub stars](https://img.shields.io/github/stars/tallerasaf/ChatGPT_Algorithms)](https://github.com/tallerasaf/ChatGPT_Algorithms/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/tallerasaf/ChatGPT_Algorithms)](https://github.com/tallerasaf/ChatGPT_Algorithms/commits/main)
+[![GitHub contributors](https://img.shields.io/github/contributors/tallerasaf/ChatGPT_Algorithms)](https://github.com/tallerasaf/ChatGPT_Algorithms/graphs/contributors)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/tallerasaf/ChatGPT_Algorithms)](https://github.com/tallerasaf/ChatGPT_Algorithms/pulls)
 
 Welcome to the <span style="color:blue">ChatGPT_Algorithms</span> repository! This repository contains a collection of
 Python algorithms created using ChatGPT.
